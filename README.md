@@ -1,4 +1,4 @@
-# test
+# DatabaseSystemProject-Frontend
 
 ## Project setup
 ```
@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## DatabaseSystemProject-Backend
+Link: [https://github.com/shiow620412/DatabaseSystemProject-Backend](https://github.com/shiow620412/DatabaseSystemProject-Backend)
